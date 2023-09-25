@@ -28,7 +28,7 @@ Below are the projects featured in this portfolio:
     - Description: This is the main page & my portfolio with a showcase of previews of my projects,in each preview you can go to the project page or download zip file by clicking the button.
     If you want to roll back to the main page just click on my picture in the top right corner.
 
-   - Repository: [Main-Repo](#https://github.com/codelyoko499/Portofolio)
+   - Repository: [Main-Repo](https://github.com/codelyoko499/Portofolio)
    - GitHub Page: [https://codelyoko499.github.io/Portofolio/]
 
 
