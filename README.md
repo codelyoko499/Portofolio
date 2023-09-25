@@ -25,35 +25,35 @@ Below are the projects featured in this portfolio:
 
 1. Work Portfolio
 
-- Description: This is the main page & my portfolio with a showcase of previews of my projects,in each preview you can go to the project page or download zip file by clicking the button.
-If you want to roll back to the main page just click on my picture in the top right corner.
+    - Description: This is the main page & my portfolio with a showcase of previews of my projects,in each preview you can go to the project page or download zip file by clicking the button.
+    If you want to roll back to the main page just click on my picture in the top right corner.
 
    - Repository: [https://github.com/codelyoko499/Portofolio](#)
    - GitHub Page: [https://codelyoko499.github.io/Portofolio](#)
 
 
-1. תן לנו להוביל אותך קדימה
+2. תן לנו להוביל אותך קדימה
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project1](#)
 
-2. Here & Now
+3. Here & Now
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project2](#)
-3. קפה טוב לבוקר טוב
+4. קפה טוב לבוקר טוב
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project3](#)
-4. תן לנו להוביל אותך קדימה
+5. תן לנו להוביל אותך קדימה
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project4](#)
-5. לגלות את העולם
+6. לגלות את העולם
 
    - Description: In this Project I have used HTML,CSS & Bootstrap.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project5](#)
-6. ייעוץ חינם
+7. ייעוץ חינם
 
    - Description: In this Project I have used HTML,CSS & SASS.
    - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project6](#)
