@@ -19,40 +19,36 @@ Welcome to my portfolio website! This repository showcases my web development pr
 
 This portfolio website serves as a showcase of my web development skills and includes various projects that demonstrate my proficiency in HTML, CSS, Bootstrap, and Sass. Feel free to explore the projects and get in touch with me for any inquiries or collaborations.
 
-## Projects
-
-Below are the projects featured in this portfolio:
-
-1. Work Portfolio
-
-    - Description: This is the main page & my portfolio with a showcase of previews of my projects,in each preview you can go to the project page or download zip file by clicking the button.
+   - Description: This is the main page & my portfolio with a showcase of previews of my projects,in each preview you can go to the project page or download zip file by clicking the button.
     If you want to roll back to the main page just click on my picture in the top right corner.
 
    - Repository: [Main-Repo](https://github.com/codelyoko499/Portofolio)
    - GitHub Page: [https://codelyoko499.github.io/Portofolio/]
 
+## Projects
 
-2. תן לנו להוביל אותך קדימה
+Below are the projects featured in this portfolio:
+1. תן לנו להוביל אותך קדימה
    - Description: In this Project I have used HTML & CSS.
    - Repository: [Project1](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project1)
 
-3. Here & Now
+2. Here & Now
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [Project2](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project2)
-4. קפה טוב לבוקר טוב
+3. קפה טוב לבוקר טוב
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [Project3](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project3)
-5. תן לנו להוביל אותך קדימה
+4. תן לנו להוביל אותך קדימה
 
    - Description: In this Project I have used HTML & CSS.
    - Repository: [Project4](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project4)
-6. לגלות את העולם
+5. לגלות את העולם
 
    - Description: In this Project I have used HTML,CSS & Bootstrap.
    - Repository: [Project5](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project5)
-7. ייעוץ חינם
+6. ייעוץ חינם
 
    - Description: In this Project I have used HTML,CSS & SASS.
    - Repository: [Project6](https://github.com/codelyoko499/Portofolio/tree/main/projects/Project6)
