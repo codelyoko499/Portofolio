@@ -29,7 +29,7 @@ Below are the projects featured in this portfolio:
     If you want to roll back to the main page just click on my picture in the top right corner.
 
    - Repository: [https://github.com/codelyoko499/Portofolio](#)
-   - GitHub Page: [https://codelyoko499.github.io/Portofolio](#)
+   - GitHub Page: [https://codelyoko499.github.io/Portofolio/](#)
 
 
 2. תן לנו להוביל אותך קדימה
