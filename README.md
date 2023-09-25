@@ -26,28 +26,28 @@ Below are the projects featured in this portfolio:
 1. תן לנו להוביל אותך קדימה
 
    - Description: In this Project I have used HTML & CSS.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project1](#)
 
 2. Here & Now
 
    - Description: In this Project I have used HTML & CSS.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project2](#)
 3. קפה טוב לבוקר טוב
 
    - Description: In this Project I have used HTML & CSS.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project3](#)
 4. תן לנו להוביל אותך קדימה
 
    - Description: In this Project I have used HTML & CSS.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project4](#)
 5. לגלות את העולם
 
    - Description: In this Project I have used HTML,CSS & Bootstrap.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project5](#)
 6. ייעוץ חינם
 
    - Description: In this Project I have used HTML,CSS & SASS.
-   - Repository: [Link to project repository](#)
+   - Repository: [https://github.com/codelyoko499/Portofolio/tree/main/projects/Project6](#)
 
 
 
@@ -73,7 +73,7 @@ If you want to run this portfolio locally or explore the projects in detail, fol
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   https://github.com/codelyoko499/Portofolio/tree/main
 
 2. Open the project in your code editor.
 
