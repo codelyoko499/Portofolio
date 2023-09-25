@@ -23,7 +23,7 @@ This portfolio website serves as a showcase of my web development skills and inc
     If you want to roll back to the main page just click on my picture in the top right corner.
 
    - Repository: [Main-Repo](https://github.com/codelyoko499/Portofolio)
-   - GitHub Page: [https://codelyoko499.github.io/Portofolio/]
+   - Main Page: [https://codelyoko499.github.io/Portofolio/]
 
 ## Projects
 
